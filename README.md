@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory (Home Lab)</b>
-  - [Configuring Domain Controller & Adding Client Computer to the Network](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuring Domain Controller & Adding Client Computer to the Network](https://github.com/TWIL-bit/Active-Directory-Project)
 - <b>SOAR / EDR (Home Lab)</b>
   - [Detecting Malware & Automating Alerts for Review](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Cloud Resume Challenge</b>
