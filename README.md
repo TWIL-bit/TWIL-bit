@@ -9,7 +9,7 @@
 - <b>Cloud Resume Challenge</b>
   - [Hosting a Static Website in Azure with Visitor Counter](https://github.com/TWIL-bit/Cloud-Resume-Challenge-Static-Site-Development)
 - <b>Linux - Bandit War Game</b>
-  - [Learning Linux with Level-Based Progression](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Learning Linux with Level-Based Progression](https://github.com/TWIL-bit/Learning-Linux-with-The-Bandit-War-Game)
 - <b>Python</b>
   - [Python Guessing Game](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Python Multiple-Choice Quiz](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
