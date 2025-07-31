@@ -11,7 +11,7 @@
 - <b>Linux - Bandit War Game</b>
   - [Learning Linux with Level-Based Progression](https://github.com/TWIL-bit/Learning-Linux-with-The-Bandit-War-Game)
 - <b>Python</b>
-  - [Python Guessing Game](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Python Guessing Game](https://github.com/TWIL-bit/Python---Guessing-Game)
   - [Python Multiple-Choice Quiz](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Python Hangman Game](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
