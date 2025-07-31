@@ -5,7 +5,7 @@
 - <b>Active Directory (Home Lab)</b>
   - [Configuring Domain Controller & Adding Client Computer to the Network](https://github.com/TWIL-bit/Active-Directory-Project)
 - <b>SOAR / EDR (Home Lab)</b>
-  - [Detecting Malware & Automating Alerts for Review](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Detecting Malware & Automating Alerts for Review](https://github.com/TWIL-bit/SOAR-EDR-Project)
 - <b>Cloud Resume Challenge</b>
   - [Hosting a Static Website in Azure with Visitor Counter](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Linux - Bandit War Game</b>
