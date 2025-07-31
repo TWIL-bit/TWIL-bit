@@ -12,7 +12,7 @@
   - [Learning Linux with Level-Based Progression](https://github.com/TWIL-bit/Learning-Linux-with-The-Bandit-War-Game)
 - <b>Python</b>
   - [Python Guessing Game](https://github.com/TWIL-bit/Python---Guessing-Game)
-  - [Python Multiple-Choice Quiz](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Python Multiple-Choice Quiz](https://github.com/TWIL-bit/Python---Multiple-Choice-Quiz)
   - [Python Hangman Game](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
 - <b>Certifications</b>
