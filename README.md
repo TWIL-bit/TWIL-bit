@@ -1,4 +1,4 @@
-<h1>Hi, I'm Terry! <br/><a href="https://github.com/TWIL-bit">Acountant / Aspiring IT/Cybersecurity Professional</a>
+<h1>Hi, I'm Terry! <br/><a href="https://github.com/TWIL-bit">Accountant / IT/Cybersecurity Professional</a>
 
 <h2>👨‍💻 IT Projects:</h2>
 
