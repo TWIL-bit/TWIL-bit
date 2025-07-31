@@ -7,7 +7,7 @@
 - <b>SOAR / EDR (Home Lab)</b>
   - [Detecting Malware & Automating Alerts for Review](https://github.com/TWIL-bit/SOAR-EDR-Project)
 - <b>Cloud Resume Challenge</b>
-  - [Hosting a Static Website in Azure with Visitor Counter](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Hosting a Static Website in Azure with Visitor Counter](https://github.com/TWIL-bit/Cloud-Resume-Challenge-Static-Site-Development)
 - <b>Linux - Bandit War Game</b>
   - [Learning Linux with Level-Based Progression](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
