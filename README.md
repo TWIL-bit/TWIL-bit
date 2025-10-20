@@ -6,6 +6,8 @@
   - [Configuring Domain Controller & Adding Client Computer to the Network](https://github.com/TWIL-bit/Active-Directory-Project)
 - <b>Active Directory (Home Lab)</b>
   - [Shared Network Drive Creation / Assigning Folder Access & User Permissions](https://github.com/TWIL-bit/Shared-Network-Drive-Creation-Assigning-User-Access-and-Permissions)
+- <b>Active Directory (Home Lab)</b>
+  - [Creating Logon Script with PowerShell / Configuring GPO & Linking to Organizational Unit](https://github.com/TWIL-bit/PowerShell-Logon-Script)
 - <b>SOAR / EDR (Home Lab)</b>
   - [Detecting Malware & Automating Alerts for Review](https://github.com/TWIL-bit/SOAR-EDR-Project)
 - <b>Cloud Resume Challenge</b>
